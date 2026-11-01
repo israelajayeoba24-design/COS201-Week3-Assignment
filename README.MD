@@ -7,7 +7,7 @@
 - Name: Ajayeoba Israel Oluwasemilore
 - Matriculation Number: 25/16543
 - Department: Cyber Security
-- Level: 100
+- Level: 200
 - Course: COS 201 - Computer Programming I
 
 ### Programs Included
